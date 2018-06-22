@@ -1,3 +1,3 @@
-# hello-world
-first try
-Hello, I am learning how to use the Github
+# Hello, this is Tian
+
+Hi, my name is Tiange. Welcome to my Github page. 
